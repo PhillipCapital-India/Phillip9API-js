@@ -1,6 +1,6 @@
-# NorenApi
+# Philiip9 API
 
-Api used to connect to NorenOMS
+Phillip9 API solution is built keeping in mind the large and diverse Indian broking industry. Few of the prominent coverages are Order Execution and Exchange connectivity. This document provides details of APIs to develop Web/Mobile applications for Phillip9.
 ****
 ## Build
 
@@ -950,19 +950,5 @@ while(feed_opened==False):
 
 ****
 
-## Author
-
-Kumar Anand
-
-****
-
-## License
-
-Copyright (C) 2021 Kambala Solutions Pvt Ltd- All Rights Reserved
-Copying of this file, via any medium is strictly prohibited.
-Proprietary and confidential.
-All file transfers are logged.
-
-****
 
 
